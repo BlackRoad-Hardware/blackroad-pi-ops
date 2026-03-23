@@ -1,3 +1,11 @@
+# blackroad-pi-ops
+
+> Edge device management for Raspberry Pi and Jetson - LED control, screen rendering, and hardware interfaces
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # BlackRoad Pi Ops
 
 **Edge device management for Raspberry Pi and Jetson - LED control, screen rendering, and hardware interfaces.**
